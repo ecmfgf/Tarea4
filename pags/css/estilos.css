@@ -1,0 +1,28 @@
+body {
+  font-family: "Milonga", serif;
+  font-weight: 400;
+  font-style: normal;
+  border-color: rgb(169, 122, 214);
+}
+.accordion{
+  border-color: aquamarine;
+
+}
+
+  .container
+  {
+    border-color: rgb(169, 122, 214);
+    width: 500px;
+    height: 200px;
+
+  }
+  .container-fluid
+  {
+    /*background-color: aqua;
+    margin: 5px;
+    width: 600px;
+    height: 200px;*/
+  }
+
+
+  
